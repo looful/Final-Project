@@ -6,7 +6,7 @@ Lu Rodrigues / December 16
 My project is an attempt to create a space where I can visualize a snapshot of the relationship I had with my father. On April 20th, 2018, my dad passed away after a relatively short battle with cancer. Through the grieving process, I've found a lot of comfort in looking back at old photos, text messages, and old voicemails. I’ve found that although at times it hurts to look at these artifacts and realize they are all I have now that he’s gone, I also find a lot of comfort in knowing I have them. Putting them on this website not only felt very cathartic, as I got to sort, parce, and even relive some of the memories I came across but it also felt like a safe backup. I worry everyday about what if something happens to our texts or that voicemail on the website, so I felt so much comfort in being able to have just another backup that all of it is stored on. 
 #### Purpose / Goal:
 I started this project with just the simple goal of creating a memorial of sorts to honor the communication I had with my dad. As the project progressed, I realized that it could serve as a way to communicate to others a simple and somewhat lofi way of memorializing the virtual artifacts they have of their loved ones. Overall, I wanted this project to just simply communicate how much I love my father and how much I value these simple texts and virtual interactions and I hope this can inspire others perhaps needing the same relief in their coping process. 
-# The Final Work
+## The Final Work
 This will take you to my final project: 
 https://looful.wixsite.com/dataviz/process
 ## Project Procedure: 
