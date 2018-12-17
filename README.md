@@ -1,4 +1,6 @@
-## Visualizing While Memorializing 
+# Visualizing While Memorializing 
+Final Project 
+Lu Rodrigues / December 16
 ### Description
 
 Demo Link
