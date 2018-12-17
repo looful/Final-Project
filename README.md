@@ -8,7 +8,7 @@ My project is an attempt to create a space where I can visualize a snapshot of t
 I started this project with just the simple goal of creating a memorial of sorts to honor the communication I had with my dad. As the project progressed, I realized that it could serve as a way to communicate to others a simple and somewhat lofi way of memorializing the virtual artifacts they have of their loved ones. Overall, I wanted this project to just simply communicate how much I love my father and how much I value these simple texts and virtual interactions and I hope this can inspire others perhaps needing the same relief in their coping process. 
 ## The Final Work
 This will take you to my final project: 
-https://looful.wixsite.com/dataviz/process
+https://looful.wixsite.com/dataviz
 ## Project Procedure: 
 #### Data Processing:
 To process the data, which in this case was all of the text messages between my father and I, I sat down with my data viz professor Joey to help me download and organize all of my text data. It was, of course, not nearly as easy as it seemed. It was important though, to make sure that we were doing this correctly and not just sending in my texts to a third party program to easily download and organize all of them for me because that could not only put me at risk of having every conversation in my messages available to anyone, but it also could put all those I’ve ever texted with at risk as well. Big lesson here, we have to be careful with the data we do choose to share online. <br>
